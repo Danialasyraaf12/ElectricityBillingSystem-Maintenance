@@ -1,5 +1,5 @@
 // sabrina test git collaboration
-// danial testing git collaboration
+// Danial testing git collaboration.
 package electricity.billing.system;
 
 import java.awt.*;
