@@ -16,7 +16,7 @@ public class CalculateBill extends JFrame implements ActionListener {
     CalculateBill(){  
         
         setSize(650, 450);
-        setLocation(400,200);
+        setLocation(400,220);
         
         JPanel p = new JPanel();
         p.setLayout(null);
