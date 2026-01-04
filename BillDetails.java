@@ -11,6 +11,7 @@ public class BillDetails extends JFrame{
         
         setSize(700, 660); //updated by Haizad 
         setLocation(450, 150);
+ 
         getContentPane().setBackground(Color.white);
         
         JTable table = new JTable();
